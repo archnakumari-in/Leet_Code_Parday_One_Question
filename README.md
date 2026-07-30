@@ -19,7 +19,7 @@ Solutions are organized by problem number, topic, or date for easy navigation.
 ## 🛠️ Language & Tools
 
 * Java 17
-* IntelliJ IDEA / Spring Tool Suite (STS)
+*  Spring Tool Suite (STS)
 * Git & GitHub
 * GitHub Copilot (used for learning and productivity where appropriate)
 
