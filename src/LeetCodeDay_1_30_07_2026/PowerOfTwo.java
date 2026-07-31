@@ -16,6 +16,12 @@ public class PowerOfTwo {
 		   System.out.println(isPowerOfTwo(1));	
 		   System.out.println(isPowerOfTwo(2));
 		   System.out.println(isPowerOfTwo(3));
+		   System.out.println(isPowerOfTwo(4));
+		   System.out.println(isPowerOfTwo(5));
+		   System.out.println(isPowerOfTwo(6));
+		   System.out.println(isPowerOfTwo(7));
+		   System.out.println(isPowerOfTwo(8));
+		   System.out.println(isPowerOfTwo(9));
 		   
 	
 	}
