@@ -18,7 +18,6 @@ public class SearchRotatedArray {
 	                + ", nums[mid] = " + nums[mid]
 	            );
 
-	            // Target found
 	            if (nums[mid] == target) {
 
 	                return mid;
