@@ -29,4 +29,9 @@ public class Solutionone {
 
         return maxSum;
     }
+
+	public String largestNumber(int[] nums) {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }
